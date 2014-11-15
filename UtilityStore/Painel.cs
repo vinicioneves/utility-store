@@ -16,5 +16,10 @@ namespace UtilityStore
         {
             InitializeComponent();
         }
+
+        private void Painel_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

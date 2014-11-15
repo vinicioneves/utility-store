@@ -37,6 +37,7 @@
             this.ClientSize = new System.Drawing.Size(588, 388);
             this.Name = "Painel";
             this.Text = "Painel";
+            this.Load += new System.EventHandler(this.Painel_Load);
             this.ResumeLayout(false);
 
         }
