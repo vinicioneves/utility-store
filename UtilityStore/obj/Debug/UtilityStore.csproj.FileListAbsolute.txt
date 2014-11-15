@@ -13,3 +13,18 @@ C:\Users\Gerard\Documents\Visual Studio 2012\Projects\UtilityStore\UtilityStore\
 C:\Users\Gerard\Documents\Visual Studio 2012\Projects\UtilityStore\UtilityStore\obj\Debug\UtilityStore.Painel.resources
 C:\Users\Gerard\Documents\Visual Studio 2012\Projects\UtilityStore\UtilityStore\obj\Debug\UtilityStore.Produtos.resources
 C:\Users\Gerard\Documents\Visual Studio 2012\Projects\UtilityStore\UtilityStore\obj\Debug\UtilityStore.Vendedores.resources
+C:\wamp\www\Fatec\utility-store\UtilityStore\bin\Debug\UtilityStore.exe.config
+C:\wamp\www\Fatec\utility-store\UtilityStore\obj\Debug\UtilityStore.exe
+C:\wamp\www\Fatec\utility-store\UtilityStore\obj\Debug\UtilityStore.pdb
+C:\wamp\www\Fatec\utility-store\UtilityStore\bin\Debug\UtilityStore.exe
+C:\wamp\www\Fatec\utility-store\UtilityStore\bin\Debug\UtilityStore.pdb
+C:\wamp\www\Fatec\utility-store\UtilityStore\obj\Debug\UtilityStore.csprojResolveAssemblyReference.cache
+C:\wamp\www\Fatec\utility-store\UtilityStore\obj\Debug\UtilityStore.Cadastrofuncionario.resources
+C:\wamp\www\Fatec\utility-store\UtilityStore\obj\Debug\UtilityStore.Cadastrousuario.resources
+C:\wamp\www\Fatec\utility-store\UtilityStore\obj\Debug\UtilityStore.Cadastrovendas.resources
+C:\wamp\www\Fatec\utility-store\UtilityStore\obj\Debug\UtilityStore.Fornecedores.resources
+C:\wamp\www\Fatec\utility-store\UtilityStore\obj\Debug\UtilityStore.Painel.resources
+C:\wamp\www\Fatec\utility-store\UtilityStore\obj\Debug\UtilityStore.Produtos.resources
+C:\wamp\www\Fatec\utility-store\UtilityStore\obj\Debug\UtilityStore.Properties.Resources.resources
+C:\wamp\www\Fatec\utility-store\UtilityStore\obj\Debug\UtilityStore.Vendedores.resources
+C:\wamp\www\Fatec\utility-store\UtilityStore\obj\Debug\UtilityStore.csproj.GenerateResource.Cache
